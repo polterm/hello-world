@@ -1,4 +1,6 @@
 # hello-world
 Just another repository.
 
-I am testing; 1, 2, 3.
+Michael Polter, writing some things here to test things in GitHub in the tutorial.
+
+Testing; 1, 2, 3.
