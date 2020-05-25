@@ -1,6 +1,4 @@
 # hello-world
-Just another repository.
+Introduction/tutorial on Data Science in python
 
-Michael Polter, writing some things here to test things in GitHub in the tutorial.
-
-Testing; 1, 2, 3.
+I am essentially testing pandas, numpy, etc. for learning purposes
